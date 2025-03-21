@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes ",
+        "publication_year": 2015,
+        "genre": "Programming",
+        "read_status": true
+    },
+    {
+        "title": "Automate the Boring Stuff with Python",
+        "author": "Al Sweigart",
+        "publication_year": 2015,
+        "genre": "Programming",
+        "read_status": false
+    },
+    {
+        "title": "Learning Python",
+        "author": "Mark Lutz",
+        "publication_year": 2013,
+        "genre": "Progamming",
+        "read_status": false
+    }
+]
